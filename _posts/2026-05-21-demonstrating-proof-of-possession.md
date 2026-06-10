@@ -2,7 +2,7 @@
 title: "Demonstrating Proof of Possession [DPoP]"
 description: "A comprehensive exploration of Demonstrating Proof of Possession (DPoP) tokens, examining their core security advantages."
 cover_image: "assets/images/blogs/dpop/dpop-thumbnail.png"
-published: false
+published: true
 ---
 
 # **Demonstrating Proof of Possession (DPoP)**
